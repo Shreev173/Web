@@ -1,0 +1,64 @@
+body {
+  font-family: "Archivo", sans-serif;
+  text-align: center;
+  color: #000;
+  
+  font-weight: bold;
+}
+
+h1 {
+  font-family: "Staatliches", cursive;
+  font-size: 3rem;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  padding-top: 3%;
+}
+
+
+#nav {
+  background-color: #c5c4b2;
+}
+
+.nav-item {
+  margin: 20px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.nav-pic {
+  border-radius: 100%;
+}
+
+#second {
+  background-color: #d2beb0;
+  padding: 2% 15%;
+}
+
+.sec-inner {
+  padding-top: 3%;
+}
+
+#strawhats {
+  background-color: #c5c4b2;
+}
+
+.BB {
+  padding-top: 2%;
+}
+
+#footer {
+
+    background-color: #E8E4E0;
+    
+    padding : 7% 7%;
+  }
+ 
