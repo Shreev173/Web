@@ -1,0 +1,78 @@
+body {
+  text-align: center;
+
+}
+
+.navbar-item {
+  padding: 0 30px;
+ 
+}
+
+.navbar-brand{
+    padding : 0 250px;
+}
+
+.nav-color{
+
+    font-weight: bold;
+    color : #1a508b;
+
+}
+
+.img {
+    max-width : 50%;
+    margin-left:200px;
+}
+
+.img1 {
+    max-width: 75%;
+    padding-top : 90px;
+}
+
+#About{
+
+    background-color: #F0F0F0;
+    color:#282747;
+    margin: 20px 0;
+    text-align: center;
+
+}
+
+#Art {
+    background-color: #FFF;
+     padding : 50px 0;
+
+
+}
+
+.first-para{
+
+    margin-left: 75px;
+
+}
+
+.btn {
+    margin: 10px 0 0 280px ;
+}
+
+.head {
+   padding : 300px 0 ; 
+
+}
+.first-heading{
+    padding-bottom : 50px;
+    color: #282747;
+}
+
+
+.slid {
+    background-color: #F0F0F0;
+    padding-left : 300px;
+}
+
+#footer {
+    color: #282747;
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 50px 0;
+}
